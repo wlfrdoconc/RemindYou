@@ -9,5 +9,7 @@ public class Main {
         System.out.println("Welcome to the Remind You app\n");
         // System.out.println();
         System.out.println("Don't forget to track your distance with the fitness app");
+
+        System.out.println("Don't forget to track your calories with the fitness app");
     }
 }
